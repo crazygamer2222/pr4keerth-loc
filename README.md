@@ -3,7 +3,7 @@
 
 $ git clone https://github.com/crazygamer2222/pr4keerth-loc.git
 
-$c d pr4keerth-loc
+$cd pr4keerth-loc
 
 $ chmod +x install.sh
 
