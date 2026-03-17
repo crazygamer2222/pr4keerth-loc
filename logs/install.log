@@ -1,0 +1,87 @@
+=====================
+INSTALLING FOR DEBIAN
+=====================
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python3 is already the newest version (3.13.9-3).
+Solving dependencies...
+Summary:
+  Upgrading: 0, Installing: 0, Removing: 0, Not Upgrading: 1716
+
+--------------------
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python3-pip is already the newest version (26.0.1+dfsg-1).
+Solving dependencies...
+Summary:
+  Upgrading: 0, Installing: 0, Removing: 0, Not Upgrading: 1716
+
+--------------------
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python3-requests is already the newest version (2.32.5+dfsg-1).
+Solving dependencies...
+Summary:
+  Upgrading: 0, Installing: 0, Removing: 0, Not Upgrading: 1716
+
+--------------------
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python3-packaging is already the newest version (25.0-2).
+python3-packaging set to manually installed.
+Solving dependencies...
+Summary:
+  Upgrading: 0, Installing: 0, Removing: 0, Not Upgrading: 1716
+
+--------------------
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python3-psutil is already the newest version (7.1.0-1).
+Solving dependencies...
+Summary:
+  Upgrading: 0, Installing: 0, Removing: 0, Not Upgrading: 1716
+
+--------------------
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+php is already the newest version (2:8.4+99).
+Solving dependencies...
+Summary:
+  Upgrading: 0, Installing: 0, Removing: 0, Not Upgrading: 1716
+
+--------------------
+
+=========
+COMPLETED
+=========
+
