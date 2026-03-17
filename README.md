@@ -16,7 +16,7 @@ $ python3 prakeerth.py
 
 $ ngrok config add-authtoken (YOUR_TOKEN)
 
-$ ngrok http 8080 and copy the link and use 
+$ ngrok http 8080 - copy the link and use 
 
 python3 seeker.py -h
 
